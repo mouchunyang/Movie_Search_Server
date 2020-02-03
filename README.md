@@ -1,10 +1,7 @@
 # ITP 435 PA7 - Fall 2019 #
 
 ### EDIT BELOW ###
-Name: Tommy Trojan
+Name: Chunyang Mou
 
-Email: ttrojan@usc.edu
+Email: cmou@usc.edu
 
-Section: [M/W or T/TH]
-
-Platform: [PC/MAC]
